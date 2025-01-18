@@ -311,6 +311,24 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .webdev {
   width: 80%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .vuejs {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongo {
+  width: 95%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .go {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .docker {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .node {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .tailwind {
+  width: 100%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .ML {
   width: 55%;
 }
